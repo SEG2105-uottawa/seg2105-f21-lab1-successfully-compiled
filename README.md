@@ -1,4 +1,4 @@
 # Successfully Compiled
 
-During this lab, we did not run into any problems. This was due to the fact that we anticipated that separate team.txt files were going to cause problems and hence we decided to put all our names into one file.
+During this lab, we did not run into any problems. We anticipated separate team.txt files would cause problems. Hence we each pulled the latest team.txt to our local repositories before adding our own names and pushing.
 
